@@ -30,7 +30,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "./node_modules/david-ui-angular/styles/_styles.scss"
             ],
             "scripts": [],
             "server": "src/main.server.ts",
@@ -95,12 +96,16 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "./node_modules/david-ui-angular/styles/_styles.scss"
             ],
             "scripts": []
           }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "316cdd70-7eda-432c-81d4-7b5e8baaae2d"
   }
 }
