@@ -30,8 +30,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss",
-              "./node_modules/david-ui-angular/styles/_styles.scss"
+              "src/styles.scss"
             ],
             "scripts": [],
             "server": "src/main.server.ts",
@@ -96,8 +95,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss",
-              "./node_modules/david-ui-angular/styles/_styles.scss"
+              "src/styles.scss"
             ],
             "scripts": []
           }
