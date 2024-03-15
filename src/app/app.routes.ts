@@ -5,5 +5,5 @@ import { PostComponent } from './layout/main/article/post/post.component';
 export const routes: Routes = [
 
     { path: '', component: MainComponent },
-    { path: 'top5-ventas', component: PostComponent}
+    { path: 'top10-ventas', component: PostComponent}
 ];
